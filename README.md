@@ -17,7 +17,7 @@
 
 ## 🎯 Overview
 
-This assignment implements three state-of-the-art generative models:
+This project implements three state-of-the-art generative models:
 1. **Variational Autoencoder (VAE)** for image reconstruction
 2. **Custom GAN** with advanced techniques for CIFAR-10 generation
 3. **Conditional GAN (cGAN)** for sketch-to-face translation

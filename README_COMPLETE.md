@@ -1,6 +1,4 @@
-# Deep Learning Assignment 2: Generative Models
-## Student ID: i211767 | Taha Hasan
-
+ Generative Models
 ---
 
 ## 📋 Table of Contents
